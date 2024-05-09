@@ -14420,19 +14420,19 @@ a.text-dark:focus {
 }
 
 .loader span:nth-child(1) {
-  background: #0E84BF;
+  background: #FF751A;
 }
 
 .loader span:nth-child(2) {
   left: 22px;
-  background: #fff;
+  background: #FFCC00;
   -webkit-animation-delay: 0.2s;
   animation-delay: 0.2s;
 }
 
 .loader span:nth-child(3) {
   top: 22px;
-  background: #fff;
+  background: #03A6E3;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
 }
@@ -14440,7 +14440,7 @@ a.text-dark:focus {
 .loader span:nth-child(4) {
   top: 22px;
   left: 22px;
-  background: #0E84BF;
+  background: #00478F;
   -webkit-animation-delay: 0.6s;
   animation-delay: 0.6s;
 }
